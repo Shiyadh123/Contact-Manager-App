@@ -1,0 +1,7 @@
+# Contact Manager App
+
+A web app for storing contacts of people as email and phone number, having functionality to Search, Edit, and Delete them.
+
+![alt text](https://lh3.googleusercontent.com/0_xiFzn9sTAbngTPrKKqFHA_nJXZGtM_Tmjn8tyku9Ib-_5E3GqdB-Yfog_mpzh5z876Saqc7Dv0XLq9vFgC-RvrNPlSfg-Tugr43E9klFvwjtUYd3K8hiA9LNWFpf32MuLXBBMEjDqmT-TginnKiEg83y9Hy6erLCm6XtgSzeapfW07-gldVmB9shavaYo1_aDdPBMCoqjXFvFxvJFqjlEfimqHD9bsAE7dsDtwEbxo8ZG9lGq0y9lUmxutSaflbD0e4CI1A5F-NzMbAoJkNiOHip1ghtQqv-FhYxgfdKZCmZpRP-hCaR5F1FX6rJIkQkhTxyUbe9QO1X81y5EviHNBTAkh5hhhJEjPNRmr_qKcRoFqLgqsPQVjySo3fLiDs0aeTAU7yFOt5C-9-D8euxLblh7R_uqD0sq7ViVQvN6U1pr4OaPf-klRx0Pkn4xyvn5C_7S1cSCOfd2ltmcdOS2bl22XEaVLQZavDS-sadyP6oHlLmxFg3Hz621t4qrFyAJs3o339uRJfPQCssCAg3lEl-YV83l81MMlkn2G_8AgbPjyPo3qKyQ82iQVeZwUMChn8LyGGWU6x18VVVPjOXeNBLv9p4yWvfoO1wURUbgVL7V0uB2By9L9PgA2S16pgFIEC2FcNfk_NYVEH0xt_k2TCoBZKh7OOtGu7EiIC_leF8eG3gar7mVBH9NkQ3uCkn-FSnHCmCT-O7KEcYUOP7c=w1695-h796-no?authuser=0)
+
+Live url: 	[https://cranky-beaver-131631.netlify.app/](https://cranky-beaver-131631.netlify.app/)
